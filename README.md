@@ -1,20 +1,18 @@
 ## Bem-vindo(a) ao meu perfil!
 
- <div>
-   <a href="https://github.com/PedroHenriqueVidal">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueVidal&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueVidal&layout=compact&langs_count=6&theme=merko"/>
+<div>
+  <a href="https://github.com/PedroHenriqueVidal">
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=PedroHenriqueVidal&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PedroHenriqueVidal&layout=compact&langs_count=6&theme=merko"/>
+  </a>
+</div>
 
+<div style="display: inline-block">
+  <br>
 </div>
-<div style="display: inline_block"><br>
-  
-</div>
- 
- <br>
- 
- 
+
+<br>
+
 <div> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/PedroHenriqueVidal/PedroHenriqueVidal/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
