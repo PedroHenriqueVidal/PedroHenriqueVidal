@@ -10,9 +10,3 @@
 <div style="display: inline-block">
   <br>
 </div>
-
-<br>
-
-<div> 
-  <img src="https://raw.githubusercontent.com/PedroHenriqueVidal/PedroHenriqueVidal/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
